@@ -28,8 +28,10 @@ Here are some ideas to get you started:
   
     
 <p align="center">
+  ![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=humanshudg&show_icons=true&theme=dark" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=humanshudg&theme=jolly" />
+  ![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
 </p>
 
   <table align="center">
@@ -111,7 +113,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <br>
 
 
-![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
+
 
 ## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
