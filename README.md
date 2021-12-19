@@ -28,8 +28,8 @@ Here are some ideas to get you started:
   
     
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=humanshudg&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=humanshudg&theme=jolly" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=humanshudg&show_icons=true&theme=dark" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=humanshudg&theme=jolly" />
 </p>
 
   <table align="center">
