@@ -26,13 +26,14 @@ Here are some ideas to get you started:
 ⚡ I like to study Psychology </td> <br>
   <table>
   
-    
+![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
 <p align="center">
   ![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=humanshudg&show_icons=true&theme=dark" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=humanshudg&theme=jolly" />
   ![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
 </p>
+![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
 
   <table align="center">
  <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/> Connect with me  :</th>
