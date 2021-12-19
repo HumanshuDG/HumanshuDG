@@ -17,17 +17,10 @@ Here are some ideas to get you started:
 
 
 
-
-
-<--!
-<img src="https://github.com/hkaur008/hkaur008/blob/main/root/screen-capture%20(5) (1).gif"/>
--->
-
-
 <table align="center">
 <td>  
 📝 I am a CSE-Sophomore <br>
-🤞  I have been <strong>MLH Fellowship holder </strong> for Pre-Fellowship Summer'21 and  <strong>Software Engineering </strong> Track Fall'21 (2x). <br>
+🤞   I have been <strong>MLH Fellowship holder </strong> for Pre-Fellowship Summer'21 and  <strong>Software Engineering </strong> Track Fall'21 (2x). <br>
 ✨ I have selected as Microsoft Engage Mentee'21 for different mentorship by Microsoft team. <br>
 🏆 <strong>vGHC Scholar (Virtual Grace Hopper Celebration Scholarship) </strong>  by AnitaB.org, sponsored by Microsoft Student Advocacy Team due to good academic performance. <br>
 ⚡ I like to study Psychology </td> <br>
@@ -118,7 +111,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <br>
 
 
-![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chhabraharsh37&theme=dracula)
+![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
 
 ## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
