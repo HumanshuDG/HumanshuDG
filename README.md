@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=humanshudg&theme=jolly" />
   ![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
 </p>
+    
 ![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
 
   <table align="center">
