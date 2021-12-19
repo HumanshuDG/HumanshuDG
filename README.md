@@ -30,8 +30,8 @@ Here are some ideas to get you started:
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=humanshudg&show_icons=true&theme=dark" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=humanshudg&theme=jolly" />
   </p>
-![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula)
-![GitHub metrics](https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
+![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula) <br>
+![GitHub metrics](https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta) <br>
 
 <table align="center">
   <th>
