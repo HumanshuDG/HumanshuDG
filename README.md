@@ -4,6 +4,11 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
+<a href="https://github.com/HumanshuDG"><img src="https://komarev.com/ghpvc/?username=HumanshuDG&color=dc143c&style=plastic"></a> 
+<a href="https://github.com/HumanshuDG?tab=followers"><img src="https://img.shields.io/github/followers/HumanshuDG?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://twitter.com/HumanshuDG"><img src="https://img.shields.io/twitter/follow/HumanshuDG?style=social"></a> 
+<a class="drift-open-chat" href="https://drift.me/HumanshuDG"><img src="https://img.shields.io/badge/-Chat%20Now-gray?logo=googlemessages&logoColor=white&style=flat-square" /></a>
+
 <table align="center">
   <td>  
     📝 I am a CSE-Sophomore <br>
