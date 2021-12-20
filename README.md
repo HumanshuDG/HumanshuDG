@@ -1,5 +1,5 @@
 <a href="https://github.com/HumanshuDG">
-  <img src="https://komarev.com/ghpvc/?username=HumanshuDG&color=dc5cc4&style=plastic">
+  <img src="https://komarev.com/ghpvc/?username=HumanshuDG&color=dc5cc4&style=flat">
 </a> 
 <a href="https://github.com/HumanshuDG?tab=followers">
   <img src="https://img.shields.io/github/followers/HumanshuDG?label=Followers&style=social" alt="GitHub Badge">
