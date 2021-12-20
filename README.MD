@@ -114,19 +114,12 @@
   
   </div>
 </p>
-
-<hr/>
-<img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=chhabraharsh37&show_icons=true&theme=radical&count_private=true'/>
-</p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=chhabraharsh37&count_private=true&theme=radical" alt="chhabraharsh37"/>
- <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhabraharsh37&count_private=true&theme=radical&layout=compact" alt="chhabraharsh37" />
- 
- <p align="center"> 
+<p align="center"> 
  
 <div align="center">
   <h4>🏆 Github Profile Trophies</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=chhabraharsh37&theme=monokai&row=1&column=8">
+   <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai&row=1&column=8">
   </a>
 </div><hr>
 
