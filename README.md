@@ -27,15 +27,12 @@
     ✨ I've been selected as Microsoft Engage Mentee'21 for different mentorship by Microsoft team. <br>
     🏆 <strong>vGHC Scholar (Virtual Grace Hopper Celebration Scholarship) </strong>  by AnitaB.org, sponsored by Microsoft Student Advocacy Team due to good academic performance. <br>
     ⚡ I like to study Psychology
-  </td> <br>
+  </td> </table> <br>
 
-  
-  
-  
-<h1 align="center">
+<h3 align="center">
   <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/>
   My GitHub Statistics:
-</h1>
+</h3>
 <table>
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" />
