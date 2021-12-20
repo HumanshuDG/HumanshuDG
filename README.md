@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/-Chat%20Now-gray?logo=googlemessages&logoColor=white&style=flat-square" />
 </a> <br> <br>
 
-
 <h1 align="center">
-  <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/> Hi, I'm Humanshu!
+  <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/>
+  Hi, I'm Humanshu!
 </h1> <br> <br>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
