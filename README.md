@@ -13,11 +13,14 @@
   </td> <br>
 <table>
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=dark" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" />
-  </p> <br> <br>
+  </p>
+</table>
+
 ![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula) <br> <br>
-![GitHub metrics](https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta) <br>
+
+![GitHub metrics](https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta) <br> <br>
 
 <table align="center">
   <th>
