@@ -16,14 +16,37 @@
 [![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 
+
+
+## 📝 Educational Qualification
 <table align="center">
-  <td>  
-    📝 I am a CSE-Sophomore <br>
-    🤞    I have been <strong>MLH Fellowship holder </strong> for Pre-Fellowship Summer'21 and  <strong>Software Engineering </strong> Track Fall'21 (2x). <br>
-    ✨ I've been selected as Microsoft Engage Mentee'21 for different mentorship by Microsoft team. <br>
-    🏆 <strong>vGHC Scholar (Virtual Grace Hopper Celebration Scholarship) </strong>  by AnitaB.org, sponsored by Microsoft Student Advocacy Team due to good academic performance. <br>
-    ⚡ I like to study Psychology
-  </td> </table> <br>
+  <td>
+    👨🏻‍🎓 Pursuing Game Design Master Course from Game Design School, Finland. <br>
+    👨🏻‍🎓 Pursuing BSc in Programming and Data Science from IIT Madras. <br>
+    👨🏻‍🎓 Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
+    🎓 Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br>
+  </td>
+</table> <br>
+
+## 🏆 Achievements
+<table align="center">
+  <td>
+    👨🏻‍🎓 Pursuing Game Design Master Course from Game Design School, Finland. <br>
+    👨🏻‍🎓 Pursuing BSc in Programming and Data Science from IIT Madras. <br>
+    👨🏻‍🎓 Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
+    🎓 Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br>
+  </td>
+</table> <br>
+
+## 👨🏻‍💼 Work Experience
+<table align="center">
+  <td>
+    👨🏻‍💻 IIT Booth Coordinator at PanIIT Alumni India. <br>
+    👨🏻‍💻 Conference Auditorium Coordinator at PanIIT Alumni India. <br>
+    👨🏻‍💻 College Ambassador at Techfest, IIT Bombay. <br>
+    👨🏻‍💻 Indigo Squad Member at Mood Indigo, IIT Bombay. <br>
+  </td>
+</table> <br>
 
 ## My GitHub Statistics:
 
@@ -49,29 +72,6 @@
 </details>
 <br>
 
-<table align="center">
-  <th>
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/> Connect with me  :
-  </th>
-  <td>
-    <a href="https://www.youtube.com/channel/UCIsECRBRWOalTC51co-tJWg" class="pics">
-      <img src="https://user-images.githubusercontent.com/56452820/132254874-e26c8d79-4821-4f36-9a1e-5f9e78800cde.png" height="47vh">
-    </a>
-    <a href="https://www.linkedin.com/in/hargun-k-0b7815194" class="pics">
-      <img src="https://user-images.githubusercontent.com/56452820/132254880-375d3383-f227-4920-a94b-e567592268f8.png" height="47vh">
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hargunalone@gmail.com" class="pics">
-      <img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="47vh">
-    </a>
-    <a href="https://t.me/codefloworg" class="pics">
-      <img src="https://user-images.githubusercontent.com/56452820/132254883-582e7361-9f34-49c2-aaca-3927e9978e16.png" height="47vh">
-    </a>
-  </td>
-    </table>
-
-    <h4 align="center"> 
-
-      <img src="pics/octo.gif" width="100px" height="100px"></img> <br><br>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
@@ -160,3 +160,21 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 
 ## Badges
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+# My trash
+|  |
+| :----------------------- |
+| Pursuing BSc in Programming and Data Science from IIT Madras. |
+| Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE. |
+| Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. 
+|🤞  I have been <strong>MLH Fellowship holder </strong> for Pre-Fellowship Summer'21 and  <strong>Software Engineering </strong> Track Fall'21 (2x). |
+---------------------
