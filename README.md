@@ -29,10 +29,8 @@
     ⚡ I like to study Psychology
   </td> </table> <br>
 
-<h3 align="center">
-  <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/>
-  My GitHub Statistics:
-</h3>
+## My GitHub Statistics:
+
 <table>
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" />
