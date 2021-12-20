@@ -10,7 +10,7 @@
 
 <h1 align="center">
   <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/>
-  Hi, I'm Humanshu!
+  Hi, I'm Humanshu.
 </h1> <br> <br>
 
 [![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
@@ -31,6 +31,7 @@
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=jolly&layout=compact" alt="HumanshuDG" />
   </p>
 </table>
 
