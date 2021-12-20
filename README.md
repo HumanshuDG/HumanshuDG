@@ -5,10 +5,7 @@
   <img src="https://img.shields.io/github/followers/HumanshuDG?label=Followers&style=social" alt="GitHub Badge">
 </a>
 <a href="https://twitter.com/HumanshuDG">
-  <img src="https://img.shields.io/twitter/follow/HumanshuDG?style=social">
-</a> 
-<a class="drift-open-chat" href="https://drift.me/HumanshuDG">
-  <img src="https://img.shields.io/badge/-Chat%20Now-gray?logo=googlemessages&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/twitter/follow/HumanshuDG?&style=social">
 </a> <br> <br>
 
 <h1 align="center">
