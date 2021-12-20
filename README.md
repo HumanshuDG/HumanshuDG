@@ -1,4 +1,7 @@
 # Hi there 👋
+<h1 align="center">
+  <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/> Hi, I'm Humanshu!
+</h1>
 
 <!--
 **HumanshuDG/HumanshuDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,7 +69,7 @@ Here are some ideas to get you started:
     
     <h4 align="center"> 
   
-<h1 align="center">Hi <img src="pics/Hi.gif" width="29px"/>, I'm Harsh Chhabra </h1>
+
  
  
 <img src="pics/octo.gif" width="100px" height="100px"></img> <br><br>
