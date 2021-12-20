@@ -1,12 +1,11 @@
-<a href="https://github.com/HumanshuDG">
-  <img src="https://komarev.com/ghpvc/?username=HumanshuDG&color=dc5cc4&style=flat">
-</a> 
-<a href="https://github.com/HumanshuDG?tab=followers">
-  <img src="https://img.shields.io/github/followers/HumanshuDG?label=Followers&style=social" alt="GitHub Badge">
-</a>
-<a href="https://twitter.com/HumanshuDG">
-  <img src="https://img.shields.io/twitter/follow/HumanshuDG?&style=social">
-</a> <br> <br>
+[![Profile Views](https://komarev.com/ghpvc/?username=HumanshuDG&color=dc5cc4&style=flat)](https://github.com/HumanshuDG)
+[![GitHub Badge](https://img.shields.io/github/followers/HumanshuDG?label=Followers&style=social)](https://github.com/HumanshuDG?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/HumanshuDG?&style=social)](https://twitter.com/HumanshuDG)
+[![Linkedin Badge](https://img.shields.io/badge/-HumanshuDG-0072b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/HumanshuDG)](https://www.linkedin.com/in/HumanshuDG)
+[![Instagram Badge](https://img.shields.io/badge/-HumanshuDG-FFFFFF?style=social&logo=instagram&link=https://instagram.com/HumanshuDG)](https://instagram.com/HumanshuDG)
+[![FaceBook Badge](https://img.shields.io/badge/-HumanshuDG-FFFFFF?style=social&logo=facebook&logoColor=blue&link=https://facebook.com/HumanshuDG)](https://facebook.com/HumanshuDG)
+[![Medium Badge](https://img.shields.io/badge/-HumanshuDG-000000?style=social&labelColor=000000&logo=Medium&link=https://medium.com/@HumanshuDG)](https://medium.com/@HumanshuDG)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-DB4437?style=social&logo=Gmail&logoColor=white&link=mailto:humanshu12345@gmail.com)](mailto:humanshu12345@gmail.com)
 
 <h1 align="center">
   <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/>
