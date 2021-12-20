@@ -16,10 +16,7 @@
   Hi, I'm Humanshu!
 </h1> <br> <br>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23800080&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
-
 
 
 <table align="center">
