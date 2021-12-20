@@ -15,15 +15,6 @@
 
 [![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-
-    👨🏻‍🎓 Pursuing Game Design Master Course from Game Design School, Finland. <br>
-    👨🏻‍🎓 Pursuing BSc in Programming and Data Science from IIT Madras. <br>
-    👨🏻‍🎓 Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur.
-    🎓 Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br>
-
-
-
-
 ## 📝 Educational Qualification
 <table align="center">
   <td>
@@ -77,30 +68,6 @@
     </p>
 </details>
 <br>
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)](https://git.io/typing-svg)
-  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
- 
-👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"> <br>
-👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"> <br>
-👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"> <br>
-👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"> <br>
-👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong><br>
-👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"> 
-
-I love to spend time at <strong>GitHub</strong> :octocat:
-
-📝 I regularly write articles on <strong>Medium</strong>  <img src="pics/medium.png" height="20vh"> 
- and <strong>Hashnode</strong> <img src="pics/hashnode.png" height="20vh">
-
-⚡ In my free time, I love to play Chess  <img src="pics/chess.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
-</h4><br>
-
-<a href="https://github.com/chhabraharsh37"><img src="https://komarev.com/ghpvc/?username=chhabraharsh37&color=dc143c&style=plastic"></a> 
-<a href="https://github.com/chhabraharsh37?tab=followers"><img src="https://img.shields.io/github/followers/chhabraharsh37?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://twitter.com/harshchhabra37"><img src="https://img.shields.io/twitter/follow/harshchhabra37?style=social"></a> 
-<a class="drift-open-chat" href="https://drift.me/chhabraharsh37"><img src="https://img.shields.io/badge/-Chat%20Now-gray?logo=googlemessages&logoColor=white&style=flat-square" /></a>
-
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'></a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='pics/css.svg'></a>
