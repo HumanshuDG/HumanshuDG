@@ -13,7 +13,7 @@
   Hi, I'm Humanshu!
 </h1> <br> <br>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 
 <table align="center">
@@ -36,7 +36,17 @@
 
 ![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula) <br> <br>
 
-![GitHub metrics](https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta) <br> <br>
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="My GitHub Metrics"
+                src="https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta" />
+        <br>
+    </p>
+</details>
+<br>
 
 <table align="center">
   <th>
