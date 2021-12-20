@@ -35,8 +35,7 @@
 <h1 align="center">
   <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/>
   My GitHub Statistics:
-</h1> <br> <br>
-
+</h1>
 <table>
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" />
