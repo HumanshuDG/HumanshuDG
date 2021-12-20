@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/> Hi, I'm Humanshu!
-</h1>
+</h1> <br> <br>
 
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 <table align="center">
   <td>  
@@ -42,23 +43,9 @@
   </td>
     </table>
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <h4 align="center"> 
-  
 
- 
- 
-<img src="pics/octo.gif" width="100px" height="100px"></img> <br><br>
+      <img src="pics/octo.gif" width="100px" height="100px"></img> <br><br>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
