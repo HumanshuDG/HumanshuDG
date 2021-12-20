@@ -6,8 +6,8 @@
 <table align="center">
   <td>  
     📝 I am a CSE-Sophomore <br>
-    🤞   I have been <strong>MLH Fellowship holder </strong> for Pre-Fellowship Summer'21 and  <strong>Software Engineering </strong> Track Fall'21 (2x). <br>
-    ✨ I have selected as Microsoft Engage Mentee'21 for different mentorship by Microsoft team. <br>
+    🤞    I have been <strong>MLH Fellowship holder </strong> for Pre-Fellowship Summer'21 and  <strong>Software Engineering </strong> Track Fall'21 (2x). <br>
+    ✨ I've been selected as Microsoft Engage Mentee'21 for different mentorship by Microsoft team. <br>
     🏆 <strong>vGHC Scholar (Virtual Grace Hopper Celebration Scholarship) </strong>  by AnitaB.org, sponsored by Microsoft Student Advocacy Team due to good academic performance. <br>
     ⚡ I like to study Psychology
   </td> <br>
@@ -15,8 +15,8 @@
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=dark" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" />
-  </p>
-![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula) <br>
+  </p> <br> <br>
+![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula) <br> <br>
 ![GitHub metrics](https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta) <br>
 
 <table align="center">
