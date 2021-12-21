@@ -9,138 +9,140 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-FFFFFF?style=flat&logo=Gmail&link=mailto:humanshu12345@gmail.com)](mailto:humanshu12345@gmail.com)
 
 <h1 align="center"> <br>
-  <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/>
+  <img src="/GIFs/Hi emoji.gif" width="30px"/>
   Hi, I'm Humanshu.
 </h1>
 
-[![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)
 
-## 📝 Educational Qualification
-<table align="center">
-  <td>
-    👨🏻‍🎓 Pursuing Game Design Master Course from Game Design School, Finland. <br>
-    👨🏻‍🎓 Pursuing BSc in Programming and Data Science from IIT Madras. <br>
-    👨🏻‍🎓 Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
-    🎓 Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br>
-  </td>
-</table> <br>
+## 📜 Education
+- Pursuing Game Design Master Course from Game Design School, Finland. <br>
+- Pursuing BSc in Programming and Data Science from IIT Madras. <br>
+- Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
+- Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
 
 ## 🏆 Achievements
-<table align="center">
-  <td>
-    👨🏻‍🎓 Pursuing Game Design Master Course from Game Design School, Finland. <br>
-    👨🏻‍🎓 Pursuing BSc in Programming and Data Science from IIT Madras. <br>
-    👨🏻‍🎓 Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
-    🎓 Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br>
-  </td>
-</table> <br>
+- **SOF’s National Cyber Olympiad – 2019** Zonal Rank – 1 and International Rank – 7. <br>
+- **RoboTryst IIT-Delhi – 2016** Participated in Final Rounds held at IIT-D and Zonal Rank – IIIRD.<br>
+- **Technothlon IIT-Guwahati – 2015** All India Rank (Junior Squad) – 46. <br>
+- Participated in: 
+  - **Jawaharlal Nehru National Science Exhibition – 2017.**
+  - **KVS Regional Social Science Exhibition – 2017/2016.**
+  - **KVS Bharat Scouts & Guides Cub-Bulbul Utsav – 2012.**
+  - **National Integration Camp – 2012.**
+  - And various school level medals in SOF’s Olympiads. <br> <br>
 
-## 👨🏻‍💼 Work Experience
-<table align="center">
-  <td>
-    👨🏻‍💻 IIT Booth Coordinator at PanIIT Alumni India. <br>
-    👨🏻‍💻 Conference Auditorium Coordinator at PanIIT Alumni India. <br>
-    👨🏻‍💻 College Ambassador at Techfest, IIT Bombay. <br>
-    👨🏻‍💻 Indigo Squad Member at Mood Indigo, IIT Bombay. <br>
-  </td>
-</table> <br>
+## 👨🏻‍💼 Experience
+- IIT Booth Coordinator at PanIIT Alumni India. <br>
+- Conference Auditorium Coordinator at PanIIT Alumni India. <br>
+- College Ambassador at Techfest, IIT Bombay. <br>
+- Indigo Squad Member at Mood Indigo, IIT Bombay. <br> <br>
 
-## My GitHub Statistics:
+## 👨🏻‍💼 Interests and Hobbies
+- Conscientiousness. <br>
+- Psychology. <br>
+- Music. <br>
+- Footbally. <br> <br>
 
+<h2>
+  <img src = "/GIFs/Skills.gif" height="27px" width="27px">
+  Skill set
+</h2>
+<p>
+  <a>
+    <img width ='50px' src ='LOGOs/R.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/Python.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/Java.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/C.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/C++.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/Linux.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/Google Cloud.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/WordPress.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/MySQL.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/HTML-5.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/CSS.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/JavaScript.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/JuPyteR.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/GitHub.svg'>
+  </a>
+</p> <br>
+
+<h2>
+  <img src = "/GIFs/Connect [Dark-Mode].gif" width = 50px>
+  Connect with me on
+</h2>
+<p>
+  <div>
+      <a href="https://www.linkedin.com/in/HumanshuDG" class="pics">
+        <img src="/LOGOs/LinkedIn.svg" height="50vh" width="50vh">
+      </a>
+      <a href="https://github.com/HumanshuDG" class="pics">
+        <img src="/LOGOs/GitHub.svg" height="50vh" width="50vh ">
+      </a>
+      <a href="https://www.twitter.com/HumanshuDG" class="pics">
+        <img src="/LOGOs/Twitter.svg" height="50vh" width="50vh">
+      </a>
+      <a href="https://www.instagram.com/HumanshuDG" class="pics">
+        <img src="/LOGOs/Instagram.svg" height="50vh" width="50vh">
+      </a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=humanshu12345@gmail.com">
+        <img src="/LOGOs/GMail.svg" height="50vh" width="50vh">
+      </a>
+  </div>
+</p> <br>
+
+<h2>
+  <img src="/LOGOs/GitHub.svg" height="27px" width="27px">
+  My GitHub Statistics:
+</h2>
 <table>
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" />
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=jolly&layout=compact" alt="HumanshuDG" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" >
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" >
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=jolly&layout=compact">
   </p>
 </table>
 
-![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula) <br> <br>
-
+![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&bg_color=291B3E&color=DD58C1&line=DD58C1&point=A861FF&area=true&hide_border=true)
 <details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
+  <summary> <samp>&#9776; More details </samp></summary>
     <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="My GitHub Metrics"
-                src="https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta" />
-        <br>
+      <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/HumanshuDG?template=classic&introduction=1&languages=1&isocalendar=1&stars=1&people=1&gists=1&followup=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta">
     </p>
-</details>
-<br>
-<p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='pics/css.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='pics/bootstrap.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='pics/javascript.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='pics/typescript.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='pics/c.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='pics/cpp.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='pics/python.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='pics/nodejs.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='pics/reactjs.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='pics/ruby.svg'></a>
-<a href= "https://www.mongodb.com"/> <img width ='32px' src ='pics/mongodb.svg'></a>
-<a href= "https://www.mysql.com/"> <img width ='32px' src ='pics/mysql.svg'></a>
-<a href= "https://git-scm.com/"> <img width ='32px' src ='pics/git.svg'></a>
-<a href= "https://github.com/chhabraharsh37"> <img width ='32px' src ='pics/github.svg'></a>
-<a href= "https://www.docker.com"> <img width ='32px' src ='pics/docker.svg'></a>
-<a href= "https://kubernetes.io"> <img width ='32px' src ='pics/kubernetes.svg'></a>
-<a href= "https://www.postman.com/chhabraharsh37"> <img width ='32px' src ='pics/postman.svg'></a>
-<a href= "https://firebase.google.com/"> <img width ='32px' src ='pics/firebase.svg'></a>
-<a href= "https://aws.amazon.com"> <img width ='32px' src ='pics/aws.svg'></a>
-<a href= "https://azure.microsoft.com"> <img width ='32px' src ='pics/azure.svg'></a>
-<a href= "https://cloud.google.com"> <img width ='32px' src ='pics/googlecloud.svg'></a>
-<a href= "https://www.linux.org/"> <img width ='32px' src ='pics/linux.svg'></a></p>
-<!-- <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=jupyternotebook&sort= > <img width ='32px' src ='pics/jupyter.svg'></a> --->
+    <p align="center">
+      <h3>
+        🏆 Github Profile Trophies
+      </h3>
+      <a>
+        <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai">
+      </a>
+    </p>
+</details> <br> 
 
-<br>
-
-
-
-
-## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
-<p align="left">
-<div class="footer" id="top3">
-  <center> 
-   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
-   <a href="https://github.com/chhabraharsh37" class="pics"> <img src="pics/github.svg" height="36vh"></a>
-    <a href="https://www.twitter.com/harshchhabra37" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
-    <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
-  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh"></a>
-  <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh"></a>
-   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
-  
-  </div>
-</p>
-<p align="center"> 
- 
-<div align="center">
-  <h4>🏆 Github Profile Trophies</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai&row=1&column=8">
-  </a>
-</div><hr>
-
-
-## Badges
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-
-
-
-
-
-
-
-
--------------------------------------------------------------------------------------------
-# My trash
-|  |
-| :----------------------- |
-| Pursuing BSc in Programming and Data Science from IIT Madras. |
-| Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE. |
-| Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. 
-|🤞  I have been <strong>MLH Fellowship holder </strong> for Pre-Fellowship Summer'21 and  <strong>Software Engineering </strong> Track Fall'21 (2x). |
----------------------
+<hr>
