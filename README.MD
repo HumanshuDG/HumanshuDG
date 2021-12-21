@@ -16,9 +16,9 @@
 ![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)
 
 ## 📜 Education
-- Pursuing Game Design Master Course from Game Design School, Finland. <br>
-- Pursuing BSc in Programming and Data Science from IIT Madras. <br>
-- Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
+- Pursuing **Game Design Master Course** from Game Design School, Finland. <br>
+- Pursuing **BSc in Programming and Data Science** from IIT Madras. <br>
+- Pursuing **BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning** from YCCE, Nagpur. <br>
 - Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
 
 ## 🏆 Achievements
