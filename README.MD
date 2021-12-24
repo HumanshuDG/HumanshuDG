@@ -125,7 +125,7 @@
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" >
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" >
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=jolly&layout=compact">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&theme=jolly&layout=compact">
   </p>
 </table>
 
