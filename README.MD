@@ -29,23 +29,6 @@
 - College Ambassador at Techfest, IIT Bombay. <br>
 - Indigo Squad Member at Mood Indigo, IIT Bombay. <br> <br>
 
-## 🏆 Achievements
-- **SOF’s National Cyber Olympiad – 2019** Zonal Rank – 1 and International Rank – 7. <br>
-- **RoboTryst IIT-Delhi – 2016** Participated in Final Rounds held at IIT-D and Zonal Rank – IIIRD.<br>
-- **Technothlon IIT-Guwahati – 2015** All India Rank (Junior Squad) – 46. <br>
-- Participated in: 
-  - **Jawaharlal Nehru National Science Exhibition – 2017.**
-  - **KVS Regional Social Science Exhibition – 2017/2016.**
-  - **KVS Bharat Scouts & Guides Cub-Bulbul Utsav – 2012.**
-  - **National Integration Camp – 2012.**
-  - And various school level medals in SOF’s Olympiads. <br> <br>
-
-## ✨ Interests and Hobbies
-- Conscientiousness <br>
-- Psychology <br>
-- Football <br>
-- Music <br> <br>
-
 <h2>
   <img src = "/GIFs/Skills.gif" height="27px" width="27px">
   Skill set
@@ -94,6 +77,23 @@
     <img width ='50px' src ='LOGOs/GitHub.svg'>
   </a>
 </p> <br>
+
+## 🏆 Achievements
+- **SOF’s National Cyber Olympiad – 2019** Zonal Rank – 1 and International Rank – 7. <br>
+- **RoboTryst IIT-Delhi – 2016** Participated in Final Rounds held at IIT-D and Zonal Rank – IIIRD.<br>
+- **Technothlon IIT-Guwahati – 2015** All India Rank (Junior Squad) – 46. <br>
+- Participated in: 
+  - **Jawaharlal Nehru National Science Exhibition – 2017.**
+  - **KVS Regional Social Science Exhibition – 2017/2016.**
+  - **KVS Bharat Scouts & Guides Cub-Bulbul Utsav – 2012.**
+  - **National Integration Camp – 2012.**
+  - And various school level medals in SOF’s Olympiads. <br> <br>
+
+## ✨ Interests and Hobbies
+- Conscientiousness <br>
+- Psychology <br>
+- Football <br>
+- Music <br> <br>
 
 <h2>
   <img src = "/GIFs/Connect [Dark-Mode].gif" width = 50px>
