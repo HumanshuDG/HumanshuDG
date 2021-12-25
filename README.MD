@@ -23,6 +23,12 @@
 - Pursuing **BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning** from YCCE, Nagpur. <br>
 - Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
 
+## 👨🏻‍💼 Experience
+- IIT Booth Coordinator at PanIIT Alumni India. <br>
+- Conference Auditorium Coordinator at PanIIT Alumni India. <br>
+- College Ambassador at Techfest, IIT Bombay. <br>
+- Indigo Squad Member at Mood Indigo, IIT Bombay. <br> <br>
+
 ## 🏆 Achievements
 - **SOF’s National Cyber Olympiad – 2019** Zonal Rank – 1 and International Rank – 7. <br>
 - **RoboTryst IIT-Delhi – 2016** Participated in Final Rounds held at IIT-D and Zonal Rank – IIIRD.<br>
@@ -33,12 +39,6 @@
   - **KVS Bharat Scouts & Guides Cub-Bulbul Utsav – 2012.**
   - **National Integration Camp – 2012.**
   - And various school level medals in SOF’s Olympiads. <br> <br>
-
-## 👨🏻‍💼 Experience
-- IIT Booth Coordinator at PanIIT Alumni India. <br>
-- Conference Auditorium Coordinator at PanIIT Alumni India. <br>
-- College Ambassador at Techfest, IIT Bombay. <br>
-- Indigo Squad Member at Mood Indigo, IIT Bombay. <br> <br>
 
 ## ✨ Interests and Hobbies
 - Conscientiousness <br>
