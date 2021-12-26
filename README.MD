@@ -1,11 +1,11 @@
-[![GitHub Badge](https://img.shields.io/badge/-HumanshuDG-353535?&style=flat&logo=github&logoColor=000000&link=https://github.com/HumanshuDG?tab=followers)](https://github.com/HumanshuDG?tab=followers)
-[![Follower Count](https://img.shields.io/github/followers/HumanshuDG?label=Followers&color=dc5cc4&style=flat)](https://github.com/HumanshuDG?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=HumanshuDG&color=dc5cc4&style=flat)](https://github.com/HumanshuDG) <br>
+[![GitHub Badge](https://img.shields.io/badge/-HumanshuDG-353535?&style=flat&logo=github&logoColor=ffffff&link=https://github.com/HumanshuDG?tab=followers)](https://github.com/HumanshuDG?tab=followers)
+[![Follower Count](https://img.shields.io/github/followers/HumanshuDG?label=Followers&labelColor=353535&color=dc5cc4&style=flat)](https://github.com/HumanshuDG?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=HumanshuDG&labelColor=353535&color=dc5cc4&style=flat)](https://github.com/HumanshuDG) <br>
 [![Twitter Badge](https://img.shields.io/badge/-HumanshuDG-353535?&style=flat&logo=twitter&link=https://twitter.com/HumanshuDG)](https://twitter.com/HumanshuDG)
-[![Linkedin Badge](https://img.shields.io/badge/-HumanshuDG-353535?style=flat&logo=Linkedin&logoColor=0072b1&link=https://www.linkedin.com/in/HumanshuDG)](https://www.linkedin.com/in/HumanshuDG)
-[![FaceBook Badge](https://img.shields.io/badge/-HumanshuDG-353535?style=flat&logo=facebook&link=https://facebook.com/HumanshuDG)](https://facebook.com/HumanshuDG)
+[![Linkedin Badge](https://img.shields.io/badge/-HumanshuDG-0a66c2?style=flat&logo=Linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/HumanshuDG)](https://www.linkedin.com/in/HumanshuDG)
+[![FaceBook Badge](https://img.shields.io/badge/-HumanshuDG-353535?style=flat&logoColor=ffffff&logo=facebook&link=https://facebook.com/HumanshuDG)](https://facebook.com/HumanshuDG)
 [![Instagram Badge](https://img.shields.io/badge/-HumanshuDG-353535?style=flat&logo=instagram&link=https://instagram.com/HumanshuDG)](https://instagram.com/HumanshuDG)
-[![Medium Badge](https://img.shields.io/badge/-HumanshuDG-353535?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@HumanshuDG)](https://medium.com/@HumanshuDG)
+[![Medium Badge](https://img.shields.io/badge/-HumanshuDG-353535?style=flat&labelColor=000000&logoColor=ffffff&logo=Medium&link=https://medium.com/@HumanshuDG)](https://medium.com/@HumanshuDG)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-353535?style=flat&logo=Gmail&link=mailto:humanshu12345@gmail.com)](mailto:humanshu12345@gmail.com)
 
 <hr>
