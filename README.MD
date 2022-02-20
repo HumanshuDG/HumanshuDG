@@ -147,5 +147,5 @@
       </a>
     </p>
 </details> <br> 
-
 <hr>
+![footer](https://capsule-render.vercel.app/api?text=adios&fontAlignY=36&type=waving&color=auto&animation=fadeIn&height=200&section=footer)
