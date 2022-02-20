@@ -149,6 +149,4 @@
 </details> <br> 
 <hr>
 
-![header](https://capsule-render.vercel.app/api?text=bienvenidos&fontAlignY=36&type=waving&animation=fadeIn&height=200)
 ![footer](https://capsule-render.vercel.app/api?text=adios&fontAlignY=64&type=waving&animation=fadeIn&height=200&section=footer)
-![header](https://capsule-render.vercel.app/api?text=bienvenidos&fontAlignY=36&type=waving&animation=fadeIn&height=200&section=footer)
