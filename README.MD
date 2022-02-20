@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=bienvenidos&fontAlignY=36&type=waving&color=gradient&animation=fadeIn&height=200)
+![header](https://capsule-render.vercel.app/api?text=bienvenidos&reversal=true&fontAlignY=36&type=waving&color=gradient&animation=fadeIn&height=200)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-545454?&style=flat&logo=github&logoColor=ffffff&link=https://github.com/HumanshuDG?tab=followers)](https://github.com/HumanshuDG?tab=followers)
 [![Follower Count](https://img.shields.io/github/followers/HumanshuDG?label=Followers&labelColor=-545454&color=cc34a4&style=flat)](https://github.com/HumanshuDG?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=HumanshuDG&color=cc34a4&labelColor=353535&style=flat)](https://github.com/HumanshuDG) <br>
