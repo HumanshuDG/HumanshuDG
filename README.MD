@@ -9,8 +9,6 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logoColor=ffffff&logo=Medium&link=https://medium.com/@HumanshuDG)](https://medium.com/@HumanshuDG)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c4241c?style=flat&logo=Gmail&logoColor=ffffff&link=mailto:humanshu12345@gmail.com)](mailto:humanshu12345@gmail.com)
 
-<hr>
-
 <h1 align="center"> <br>
   <img src="/GIFs/Hi emoji.gif" width="30px"/>
   Hi, I'm Humanshu.
@@ -147,6 +145,5 @@
       </a>
     </p>
 </details> <br> 
-<hr>
 
 ![footer](https://capsule-render.vercel.app/api?text=adios&fontAlignY=64&type=waving&animation=fadeIn&height=200&section=footer&color=gradient)
