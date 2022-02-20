@@ -1,4 +1,6 @@
-[![header](https://capsule-render.vercel.app/api?text=bienvenidos&fontAlignY=36&type=waving&animation=fadeIn&height=200&color=gradient)]()
+<img align="center" class="header" src="https://capsule-render.vercel.app/api?text=bienvenidos&fontAlignY=36&type=waving&animation=fadeIn&height=200&color=gradient" />
+
+[![header](https://capsule-render.vercel.app/api?text=bienvenidos&fontAlignY=36&type=waving&animation=fadeIn&height=200&color=gradient)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-545454?&style=flat&logo=github&logoColor=ffffff&link=https://github.com/HumanshuDG?tab=followers)](https://github.com/HumanshuDG?tab=followers)
 [![Follower Count](https://img.shields.io/github/followers/HumanshuDG?label=Followers&labelColor=-545454&color=cc34a4&style=flat)](https://github.com/HumanshuDG?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=HumanshuDG&color=cc34a4&labelColor=353535&style=flat)](https://github.com/HumanshuDG) <br>
@@ -146,4 +148,6 @@
     </p>
 </details> <br> 
 
-[![footer](https://capsule-render.vercel.app/api?text=adios&fontAlignY=64&type=waving&animation=fadeIn&height=200&section=footer&color=gradient)]()
+[![footer](https://capsule-render.vercel.app/api?text=adios&fontAlignY=64&type=waving&animation=fadeIn&height=200&section=footer&color=gradient)](#)
+
+<img align="center" class="header" src="https://capsule-render.vercel.app/api?text=adios&fontAlignY=64&type=waving&animation=fadeIn&height=200&section=footer&color=gradient" />
