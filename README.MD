@@ -147,4 +147,4 @@
     </p>
 </details> <br> 
 
-<img align="center" class="footer" src="https://capsule-render.vercel.app/api?text=adios&type=waving&animation=fadeIn&height=200&section=footer&color=gradient" />
+<img align="center" class="footer" src="https://capsule-render.vercel.app/api?text=adios&type=waving&fontAlignY=50&animation=fadeIn&height=200&section=footer&color=gradient" />
