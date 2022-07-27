@@ -19,8 +19,8 @@
 
 ## 📜 Education
 - Pursuing **Game Design and Gamefication Course** from Edugametion Oy, Finland. <br>
-- Pursuing **BSc in Programming and Data Science** from IIT Madras. <br>
-- Pursuing **BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning** from YCCE, Nagpur. <br>
+- Pursuing **BS in Data Science and Applications** from IIT Madras. <br>
+- Pursuing **BTech in Computer Technology with Honors in Artificial Intelligence** from YCCE, Nagpur. <br>
 - Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
 
 ## 👨🏻‍💼 Experience
