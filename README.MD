@@ -1,4 +1,4 @@
-<img align="center" class="header" src="https://capsule-render.vercel.app/api?text=bienvenidos&type=waving&animation=fadeIn&height=200&color=gradient" />
+<img align="center" class="header" src="https://capsule-render.vercel.app/api?text=&type=waving&animation=fadeIn&height=200&color=gradient" />
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-545454?&style=flat&logo=github&logoColor=ffffff&link=https://github.com/HumanshuDG?tab=followers)](https://github.com/HumanshuDG?tab=followers)
 [![Follower Count](https://img.shields.io/github/followers/HumanshuDG?label=Followers&labelColor=-545454&color=cc34a4&style=flat)](https://github.com/HumanshuDG?tab=followers)
@@ -149,4 +149,4 @@
     </p>
 </details> <br> 
 
-<img align="center" class="footer" src="https://capsule-render.vercel.app/api?text=adios&type=waving&fontAlignY=72&animation=fadeIn&height=200&section=footer&color=gradient" />
+<img align="center" class="footer" src="https://capsule-render.vercel.app/api?text=&type=waving&fontAlignY=72&animation=fadeIn&height=200&section=footer&color=gradient" />
